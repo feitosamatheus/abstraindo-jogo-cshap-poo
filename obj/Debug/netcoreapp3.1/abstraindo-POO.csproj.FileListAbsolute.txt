@@ -1,0 +1,13 @@
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.exe
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.deps.json
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.runtimeconfig.json
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.runtimeconfig.dev.json
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.dll
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.pdb
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.csprojAssemblyReference.cache
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.AssemblyInfoInputs.cache
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.AssemblyInfo.cs
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.csproj.CoreCompileInputs.cache
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.dll
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.pdb
+C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.genruntimeconfig.cache
