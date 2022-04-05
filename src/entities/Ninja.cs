@@ -7,17 +7,18 @@ namespace abstraindo_POO.src.entities
 {
     public class Ninja : Hero
     {
-        public Ninja()
-        {
-            
-        }
-        public Ninja(string name, int level, TypeHero type)
+        public Ninja(string name, int level, TypeHero type, bool defense)
         {
             this.name = name; 
             this.level = level;
             this.type = type;
+            this.defense = defense;
             this.hp = 130;
             this.mana = 100;
+        }
+        public Ninja()
+        {
+            
         }
     }
 }
