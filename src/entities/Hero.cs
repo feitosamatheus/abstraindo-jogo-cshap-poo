@@ -55,13 +55,18 @@ namespace abstraindo_POO.src
                 }else if(hero.defense == true && this.defense == false){
 
                     hero.hp = hero.hp - 10;
-                     return $"Escudos do {hero.name} estão ativados" + $" (-- Dano causado no usuario -10 |HP: {hero.hp} --)\n"+ 
+                    this.hp = this.hp - 5;
+                    return $"Escudos do {hero.name} estão ativados" + $" (-- Dano causado no usuario -10 |HP: {hero.hp} --)\n"+ 
                     $"|MP: {this.mana}| |HP: {this.hp}| \n";
                 
-                }else{
-
+                }else if(hero.defense == false && this.defense == true){
                     hero.hp = hero.hp - 20;
-                     return $"Escudos do {hero.name} estão desativados" + $" (-- Dano causado no usario -20 |HP: {hero.hp} --)\n"+ 
+                     return $"Escudos do {hero.name} estão desativados e os seus ativados" + $" (-- Dano causado no usario -20 |HP: {hero.hp} --)\n"+ 
+                    $"|MP: {this.mana}| |HP: {this.hp}| \n";
+
+                }else{
+                    hero.hp = hero.hp - 30;
+                    return $"Escudos do {hero.name} e o seu estão Desativados" + $" (-- Dano causado no usario -20 |HP: {hero.hp} --)\n"+ 
                     $"|MP: {this.mana}| |HP: {this.hp}| \n";
                 }
             } 

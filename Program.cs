@@ -65,6 +65,7 @@ namespace abstraindo_POO
                             }
                         }else{
                             Console.Write("\n[ERRO!!] Você não pode atacar você mesmo [PERDEU A VEZ]\n");
+                            Console.ReadLine();
                             break;
                         }
                         break;
@@ -85,6 +86,7 @@ namespace abstraindo_POO
                             }
                         }else{
                             Console.Write("\n[ERRO!!] Você não pode atacar você mesmo [PERDEU A VEZ]\n");
+                            Console.ReadLine();
                             break;
                         }
                     break;
@@ -105,6 +107,7 @@ namespace abstraindo_POO
                             }
                         }else{
                             Console.Write("\n[ERRO!!] Você não pode atacar você mesmo [PERDEU A VEZ]\n");
+                            Console.ReadLine();
                             break;
                         }
                     break;
@@ -125,6 +128,7 @@ namespace abstraindo_POO
                             }
                         }else{
                             Console.Write("\n[ERRO!!] Você não pode atacar você mesmo [PERDEU A VEZ]\n");
+                            Console.ReadLine();
                             break;
                         }
                         break;

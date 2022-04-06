@@ -11,3 +11,17 @@ C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3
 C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.dll
 C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.pdb
 C:\Users\matheus.freitas\Documents\Projetos\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.genruntimeconfig.cache
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.exe
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.deps.json
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.runtimeconfig.json
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.runtimeconfig.dev.json
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.dll
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\bin\Debug\netcoreapp3.1\abstraindo-POO.pdb
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.csproj.AssemblyReference.cache
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.AssemblyInfoInputs.cache
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.AssemblyInfo.cs
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.dll
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.pdb
+C:\Users\Matheus Feitosa\Documents\abstraindo-POO\abstraindo-POO\obj\Debug\netcoreapp3.1\abstraindo-POO.genruntimeconfig.cache
